@@ -1,3 +1,3 @@
 # Expense-Tracker
 
-Bra Traversy Project
+Brad Traversy Project
